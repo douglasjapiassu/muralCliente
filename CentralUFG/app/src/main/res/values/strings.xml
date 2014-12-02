@@ -12,6 +12,8 @@
         name="opcoes_menu">
         <item>Home</item>
         <item>Frase do dia</item>
+        <item>Cartão</item>
+        <item>Compromissos</item>
         <item>Locais</item>
     </string-array>
 
@@ -22,8 +24,16 @@
     <string name="alerta_opcao_invalida">Opção inválida</string>
     <string name="alerta_server_error">Não foi possível conectar-se ao servidor</string>
     <string name="alerta_no_content">Nenhuma informação para ser visualizada</string>
+    <string name="menssage">Abrindo...</string>
 
     <!-- Locais -->
     <string name="locais_nome">Nome:</string>
+    
+    <!-- GCM -->
+    <string name="gcm_app_version">appVersion</string>
+    <string name="gcm_sender_id">437002960869</string>
+    <string name="property_reg_id">registration_id</string>
 
+    <!-- Compromisso -->
+    <string name="diaDaSemana">Dia da Semana</string>
 </resources>
